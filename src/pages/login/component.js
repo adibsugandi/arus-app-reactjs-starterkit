@@ -26,7 +26,7 @@ function Login(props) {
           <img src={LoginImage} className={classes.image} alt="login" />
         </Grid>
         <Grid item xs={12} className={classes.textTop}>
-          Login
+          Login YA
         </Grid>
 
         <Grid item xs={12} className={classes.gridItemBottom}>
